@@ -1,2 +1,0 @@
-# gtxname
-sss
